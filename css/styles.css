@@ -1,0 +1,129 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #2e2f42;
+}
+.logo {
+  color: #2e2f42;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  text-decoration: none;
+}
+.logo-web {
+  color: #4d5ae5;
+  text-decoration: none;
+}
+.logo, .logo-web {
+  font-family: "Raleway", sans-serif;
+}
+.menu-link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration: none;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #4d5ae5;
+}
+.contact-link {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration: none;
+}
+.contact-link:hover,
+.contact-link:focus {
+  color: #4d5ae5;
+}
+.main-section {
+  background-color: #2e2f42;
+  text-align: center;
+}
+.main-title {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+}
+.button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+}
+.button:hover,
+.button:focus {
+  background-color: #404BBF; 
+}
+h3{
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.team {
+  background-color: #f4f4fd;
+  color: #2e2f42;
+}
+.team h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  text-align: center;
+}
+.team-card {
+  background-color: #ffffff;
+  text-align: center;
+}
+.team-card p {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.port h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  color: #2e2f42;
+  text-transform: capitalize;
+  text-align: center;
+}
+.ports {
+  text-align: center;
+}
+.ports p {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.footer-content {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+.footer-content p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.foot-logo {
+  color: #f4f4fd;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  text-decoration: none;
+}
+.foot-web {
+  color: #4d5ae5;
+  text-decoration: none;
+}
+.foot-logo, .foot-web{
+  font-family: "Raleway", sans-serif;
+}
