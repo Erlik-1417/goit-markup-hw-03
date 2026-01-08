@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box;  
+  box-sizing: border-box;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -7,33 +7,32 @@ body {
   color: #2e2f42;
   width: 1440px;
   height: 1240px;
-  border: 1px solid #E7E9FC;
+  border: 1px solid #e7e9fc;
 }
-.head{
+.head {
   border-bottom: 1px solid #e7e9fc;
-  
 }
 
-.container{
+.container {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
-
 }
-.head .container{
+.head .container {
   display: flex;
   align-items: center;
   height: 72px;
 }
-.main-nav ul, .contact-info ul{
+.main-nav ul,
+.contact-info ul {
   display: flex;
   gap: 40px;
 }
 
-.main-nav{
+.main-nav {
   margin-left: 72px;
 }
-.contact-info{
+.contact-info {
   margin-left: auto;
 }
 
@@ -48,7 +47,8 @@ body {
   color: #4d5ae5;
   text-decoration: none;
 }
-.logo, .logo-web {
+.logo,
+.logo-web {
   font-family: "Raleway", sans-serif;
 }
 .menu-link {
@@ -76,7 +76,7 @@ body {
 .main-section {
   background-color: #2e2f42;
   text-align: center;
-  padding-top: 188px; 
+  padding-top: 188px;
   padding-bottom: 188px;
   height: 600px;
 }
@@ -103,21 +103,28 @@ body {
 }
 .button:hover,
 .button:focus {
-  background-color: #404BBF; 
+  background-color: #404bbf;
 }
-h1, h2, h3, h4, h5, h6, p, ul {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
   margin: 0;
   padding: 0;
 }
-ul{
+ul {
   list-style: none;
 }
-img{
+img {
   display: block;
   max-width: 100%;
   height: auto;
 }
-h3{
+h3 {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -134,10 +141,10 @@ h3{
 .goals li {
   width: calc((100% - 72px) / 4);
 }
-.section-team ul{
+.section-team ul {
   display: flex;
   gap: 32px;
-  padding-left: 0; 
+  padding-left: 0;
   padding: 0;
   margin: 0;
   justify-content: center;
@@ -147,7 +154,6 @@ h3{
   color: #2e2f42;
   height: 732px;
   padding: 120px 0;
-
 }
 .section-team h2 {
   font-size: 36px;
@@ -157,8 +163,8 @@ h3{
   margin-bottom: 64px;
 }
 .team-card h3 {
-  margin-top: 32px; 
-  margin-bottom: 8px; 
+  margin-top: 32px;
+  margin-bottom: 8px;
 }
 .team-card {
   background-color: #ffffff;
@@ -172,8 +178,8 @@ h3{
   line-height: 1.5;
 }
 .section-port {
- padding: 120px 0;
- border: 1px solid #E7E9FC;
+  padding: 120px 0;
+  border: 1px solid #e7e9fc;
 }
 .section-port h2 {
   font-size: 36px;
@@ -183,26 +189,26 @@ h3{
   text-transform: capitalize;
   text-align: center;
 }
-.section-port ul{
+.section-port ul {
   display: flex;
   flex-wrap: wrap;
-  column-gap: 24px; 
+  column-gap: 24px;
   row-gap: 48px;
-  }
-  .section-port h2 {
-    margin-bottom: 64px;
-  }
+}
+.section-port h2 {
+  margin-bottom: 64px;
+}
 .ports {
   width: calc((100% - 48px) / 3);
   text-align: left;
   border: 1px solid #e7e9fc;
-  background: #FFFFFF;
+  background: #ffffff;
   height: 420px;
 }
 .ports h3 {
   margin-top: 32px;
   margin-bottom: 8px;
-  padding-left: 16px; 
+  padding-left: 16px;
 }
 .ports p {
   padding-left: 16px;
@@ -235,6 +241,7 @@ h3{
   color: #4d5ae5;
   text-decoration: none;
 }
-.foot-logo, .foot-web{
+.foot-logo,
+.foot-web {
   font-family: "Raleway", sans-serif;
 }
