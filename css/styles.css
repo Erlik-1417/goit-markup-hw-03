@@ -152,7 +152,7 @@ h3 {
 
 .goals {
   display: flex;
-  gap: 32px;
+  gap: 8px;
 }
 
 .goals h3 {
